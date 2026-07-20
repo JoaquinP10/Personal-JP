@@ -1,4 +1,4 @@
-﻿# Documento Maestro
+# Documento Maestro
 
 ## Descripción
 [Descripción de esta sección]
