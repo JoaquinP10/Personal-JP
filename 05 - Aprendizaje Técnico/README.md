@@ -1,4 +1,4 @@
-﻿# Aprendizaje Técnico
+# Aprendizaje Técnico
 
 ## Descripción
 [Descripción de esta sección]

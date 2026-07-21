@@ -1,4 +1,4 @@
-﻿# Personal Knowledge Management System
+# Personal Knowledge Management System
 
 Sistema personal de gestión de conocimiento usando Obsidian + GitHub.
 

@@ -1,4 +1,4 @@
-﻿# Organización y Productividad
+# Organización y Productividad
 
 ## Descripción
 [Descripción de esta sección]

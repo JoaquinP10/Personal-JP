@@ -1,4 +1,4 @@
-﻿# Carrera Profesional
+# Carrera Profesional
 
 ## Descripción
 [Descripción de esta sección]

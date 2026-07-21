@@ -1,4 +1,4 @@
-﻿# Conversaciones Libres
+# Conversaciones Libres
 
 ## Descripción
 [Descripción de esta sección]
