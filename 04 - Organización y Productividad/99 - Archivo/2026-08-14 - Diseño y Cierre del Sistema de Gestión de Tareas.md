@@ -1,4 +1,4 @@
-# 2026-08-14 - Diseño y Cierre del Sistema de Gestión de Tareas
+# Sesión 10 - Diseño y Cierre del Sistema de Gestión de Tareas
 
 **Área:** 04 - Organización y Productividad  
 **Tipo:** Registro de sesión  

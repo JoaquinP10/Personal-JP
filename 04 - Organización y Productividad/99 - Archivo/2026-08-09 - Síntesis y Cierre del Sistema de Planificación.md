@@ -1,4 +1,4 @@
-# Sessión 09 - Síntesis y Cierre del Sistema de Planificación
+# Sesión 09 - Síntesis y Cierre del Sistema de Planificación
 
 **Área:** 04 - Organización y Productividad  
 **Tipo:** Registro de sesión  
