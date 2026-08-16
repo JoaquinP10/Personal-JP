@@ -27,7 +27,8 @@ La **Revisión Semanal** sincroniza periódicamente los módulos anteriores.
 - `03 - Procesos/`: procesos de entrada y evaluación, como Captura, Inbox y Evaluación Estratégica.
 - `04 - Revisiones/`: procedimientos periódicos de operación del sistema.
 - `05 - Inventario Maestro/`: registro vivo de proyectos existentes y su situación general.
-- `06 - Ideas/`: reservado temporalmente hasta decidir dónde se implementará el Inbox.
+- `06 - Inbox/`: punto único de captura de información nueva.
+- `07 - Operación/`: estado operativo semanal y pilotos del sistema.
 - `99 - Archivo/`: registros históricos de sesiones y decisiones. No constituye la especificación vigente.
 
 ## Documentos principales
@@ -45,6 +46,17 @@ La **Revisión Semanal** sincroniza periódicamente los módulos anteriores.
 - `03 - Procesos/Evaluacion Estrategica.md`
 - `04 - Revisiones/Revision Semanal.md`
 - `05 - Inventario Maestro/Inventario_Maestro.md`
+- `06 - Inbox/Inbox.md`
+- `07 - Operación/README.md`
+
+## Empezar ahora
+
+La primera implementación utilizable se encuentra en:
+
+- `06 - Inbox/Inbox.md`: capturar sin decidir.
+- `07 - Operación/2026-08-17 - Semana 01.md`: ejecutar el piloto semanal.
+
+El piloto concentra temporalmente Contexto, Activación, objetivos y planificación en un solo tablero para medir la fricción antes de separar datos o elegir herramientas.
 
 ## Principio de documentación
 

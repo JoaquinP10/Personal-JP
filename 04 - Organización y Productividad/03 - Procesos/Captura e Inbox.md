@@ -13,6 +13,12 @@ Captura permite registrar rápidamente información nueva sin interrumpir el tra
 
 Inbox es la cola temporal donde permanecen los elementos todavía no integrados al sistema.
 
+Durante el piloto semanal, la implementación física vive en:
+
+```text
+06 - Inbox/Inbox.md
+```
+
 ---
 
 ## 2. Qué puede entrar

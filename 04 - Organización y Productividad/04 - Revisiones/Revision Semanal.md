@@ -4,6 +4,8 @@
 **Estado:** Procedimiento operativo  
 **Frecuencia:** semanal
 
+Durante el primer piloto, este procedimiento se ejecuta directamente sobre el tablero de `07 - Operación/` correspondiente a la semana.
+
 ---
 
 ## 1. Propósito
