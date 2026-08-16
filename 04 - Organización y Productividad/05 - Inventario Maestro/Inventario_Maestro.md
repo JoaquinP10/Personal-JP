@@ -1,225 +1,295 @@
 # Inventario Maestro
 
-> Estado actual del sistema de organización personal.
+> Registro vivo de los proyectos que forman parte actualmente del sistema.
 >
-> Este documento representa el inventario de áreas, responsabilidades y proyectos existentes. No contiene tareas ni planificación semanal.
+> El Inventario representa **existencia y situación general**, no tareas ni planificación semanal.
 >
-> Última actualización: 2026-07-20
+> **Última actualización estructural:** 2026-08-16
 
 ---
 
-# Propósito
+## 1. Propósito
 
-El Inventario Maestro responde una única pregunta:
+El Inventario Maestro responde:
 
-> **¿Qué forma parte actualmente de mi vida?**
+> **¿Qué proyectos existen y cuál es su situación general?**
 
-No responde:
+La información principal de cada proyecto es:
 
-- qué debo hacer hoy;
-- qué es prioritario esta semana;
-- cuáles son mis próximas acciones.
+- nombre;
+- estado general;
+- descripción breve.
 
-Esas decisiones pertenecen al Sistema de Activación y al gestor de tareas.
+Información secundaria opcional:
 
----
+- área;
+- tipo o unidad natural;
+- progreso resumido;
+- referencia a objetivos operativos.
 
-# Principios
-
-- Las áreas representan responsabilidades permanentes.
-- Los proyectos representan resultados u objetivos que requieren seguimiento.
-- Las responsabilidades recurrentes no son proyectos.
-- Un proyecto puede existir sin estar activo.
-- Cada contexto utiliza su propia unidad natural de organización.
+El detalle de objetivos, subtareas, bloqueos y próximos avances pertenece al Sistema de Gestión de Tareas y Objetivos.
 
 ---
 
-# Áreas
+## 2. Estados generales
 
-## 1. Finanzas Personales
+El estado general describe la situación del proyecto, no si recibe capacidad esta semana.
 
-### Responsabilidades
+Un proyecto puede existir sin estar activo.
+
+La Activación mantiene por separado el estado:
+
+- activo;
+- no activo.
+
+---
+
+# Finanzas Personales
+
+## Sistema de presupuesto personal
+
+**Estado general:** existente  
+**Descripción:** Implementar un sistema para organizar ingresos, gastos y obligaciones.
+
+## Estrategia de inversión de largo plazo
+
+**Estado general:** existente  
+**Descripción:** Diseñar una estrategia de inversión coherente con el perfil de riesgo y los objetivos financieros.
+
+### Responsabilidades recurrentes
 
 - Administrar ingresos y gastos.
 - Cumplir obligaciones económicas.
 - Contribuir a los gastos del hogar.
 
-### Proyectos
-
-- Implementar un sistema de presupuesto personal.
-- Diseñar una estrategia de inversión de largo plazo.
-
 ---
 
-## 2. Salud
+# Salud
 
-### Responsabilidades
+## Mejorar condición física
+
+**Estado general:** largo plazo  
+**Descripción:** Mejorar progresivamente la condición física cuando exista capacidad y prioridad suficiente.
+
+### Responsabilidades recurrentes
 
 - Chequeos médicos.
-- Uso de Essalud.
 - Atención preventiva.
 - Seguimiento de problemas de salud.
-
-### Proyectos
-
-- Mejorar la condición física. *(Largo plazo)*
+- Uso de servicios de salud cuando corresponda.
 
 ---
 
-## 3. Familia
+# Familia
 
-### Responsabilidades
+Actualmente no existen proyectos específicos.
+
+### Responsabilidades recurrentes
 
 - Contribuir al bienestar familiar.
 - Compartir responsabilidades del hogar.
 
-Actualmente no existen proyectos específicos.
-
 ---
 
-## 4. Relaciones
-
-### Responsabilidades
-
-#### Personales
-
-- Mantener amistades.
-- Mantener relaciones personales.
-
-#### Profesionales
-
-- Mantener y fortalecer la red profesional.
+# Relaciones
 
 Actualmente no existen proyectos específicos.
 
+### Responsabilidades recurrentes
+
+- Mantener amistades y relaciones personales.
+- Mantener y fortalecer relaciones profesionales.
+
 ---
 
-## 5. Bienestar
+# Bienestar
 
-### Responsabilidades
+Actualmente no existen proyectos específicos.
+
+### Responsabilidades recurrentes
 
 - Descanso.
 - Tiempo personal.
 - Actividades recreativas.
 
-Actualmente no existen proyectos específicos.
-
 ---
 
 # Desarrollo Profesional
 
----
-
 ## Trabajo — E2I
 
-### Clientes activos
+La unidad natural de organización es el **cliente** o frente interno.
 
-- Empresa Del
-- Empresa K
-- Empresa HVE
+### Empresa Del
 
-### Clientes potenciales
+**Estado general:** cliente existente  
+**Descripción:** Solución de dashboards y reportes automáticos para procesos de pasteurización.
 
-- Empresa Roto
-- Empresa Fux
-- Empresa Bud
-- Empresa JS
+### Empresa K
 
-### Proyectos internos
+**Estado general:** cliente existente  
+**Descripción:** Solución de dashboards y reportes de secadores; requiere seguimiento de calidad y continuidad de variables.
 
-- Página Dairel
-- DCI
-- Cerro Lindo
+### Empresa HVE
+
+**Estado general:** cliente existente  
+**Descripción:** Solución de dashboards y reportes para variables de calidad de agua.
+
+### Empresa Roto
+
+**Estado general:** oportunidad / evaluación  
+**Descripción:** Propuesta de solución local para medición y visualización de consumo eléctrico.
+
+### Empresa Fux
+
+**Estado general:** oportunidad / seguimiento  
+**Descripción:** Solución relacionada con consumo eléctrico y posible evolución a propuesta comercial.
+
+### Empresa Bud
+
+**Estado general:** oportunidad / seguimiento  
+**Descripción:** Propuesta inicial de visualización de corriente de motor y posible despliegue posterior.
+
+### Empresa JS
+
+**Estado general:** oportunidad / coordinación inicial  
+**Descripción:** Sistema de data logging en etapa inicial de levantamiento y coordinación.
+
+### Página Dairel
+
+**Estado general:** frente interno  
+**Descripción:** Evolución de funcionalidades de la plataforma Dairel.
+
+### DCI
+
+**Estado general:** frente interno  
+**Descripción:** Integración y validación de gabinete, computador y periféricos.
+
+### Cerro Lindo
+
+**Estado general:** proyecto de trabajo  
+**Descripción:** Instalación y soporte técnico asociado a sistemas desplegados en mina.
 
 ---
 
 ## Docencia — PUCP
 
-### Cursos actuales
+La unidad natural es el **curso**.
 
-- Fundamentos y Aplicaciones de Electrónica (FAE)
-- Fundamentos y Aplicaciones de Electrónica (Funbio)
-- Mecánica para Ingeniería Industrial
-- Inteligencia Artificial Aplicada
+### Fundamentos y Aplicaciones de Electrónica (FAE)
 
-Cada curso contempla, según corresponda:
+**Estado general:** curso docente  
+**Descripción:** Laboratorios, corrección, asesoría de grupos y coordinación operativa.
 
-- Dictado
-- Corrección
-- Elaboración de material
-- Asesorías
-- Coordinación
+### Fundamentos y Aplicaciones de Electrónica (Funbio)
+
+**Estado general:** curso docente  
+**Descripción:** Participación en laboratorios, soporte a estudiantes y desarrollo de material cuando corresponda.
+
+### Mecánica para Ingeniería Industrial
+
+**Estado general:** curso docente  
+**Descripción:** Supervisión de prácticas y corrección distribuida entre jefes de práctica.
+
+### Inteligencia Artificial Aplicada
+
+**Estado general:** curso docente  
+**Descripción:** Participación en laboratorios, creación de material y corrección de evaluaciones asignadas.
 
 ---
 
 ## Empleabilidad
 
-Proyectos
+### CV
 
-- CV
-- LinkedIn
-- Portafolio
-- Página web personal
-- Repositorio personal (GitHub)
+**Estado general:** existente  
+**Descripción:** Mantener y adaptar el CV profesional.
+
+### LinkedIn
+
+**Estado general:** existente  
+**Descripción:** Mantener presencia y perfil profesional.
+
+### Portafolio
+
+**Estado general:** existente  
+**Descripción:** Consolidar evidencia relevante de proyectos y experiencia.
+
+### Página web personal
+
+**Estado general:** existente  
+**Descripción:** Activo profesional para presentación personal.
+
+### Repositorio personal GitHub
+
+**Estado general:** existente  
+**Descripción:** Organizar y presentar trabajo técnico/profesional relevante.
 
 ---
 
 ## Proyección Internacional
 
-Proyectos
+### Certificación de inglés
 
-- Certificación de inglés
-- Certificaciones AWS
-- Otras certificaciones profesionales
-- Pasaporte
-- Visado
-- Exploración de oportunidades internacionales
+**Estado general:** existente  
+**Descripción:** Obtener certificación internacional de inglés cuando sea necesaria.
+
+### Certificaciones AWS
+
+**Estado general:** existente  
+**Descripción:** Obtener credenciales AWS separadas del aprendizaje técnico general.
+
+### Otras certificaciones profesionales
+
+**Estado general:** existente  
+**Descripción:** Evaluar y obtener credenciales que aporten a la proyección profesional.
+
+### Pasaporte
+
+**Estado general:** existente  
+**Descripción:** Mantener resuelto el requisito documental para oportunidades internacionales.
+
+### Visado
+
+**Estado general:** condicionado  
+**Descripción:** Gestionar visado cuando exista una oportunidad o destino concreto.
+
+### Exploración de oportunidades internacionales
+
+**Estado general:** existente  
+**Descripción:** Explorar oportunidades de trabajo, estudio o relocalización internacional.
 
 ---
 
 # Desarrollo Académico
 
-## Proyectos
+## Tesis
 
-### Tesis
+**Estado general:** proyecto principal  
+**Descripción:** Culminar la tesis y avanzar hacia su evaluación y sustentación.
 
-Proyecto principal.
+## Titulación
 
----
+**Estado general:** dependiente  
+**Descripción:** Proceso de titulación condicionado por la culminación y defensa de la tesis.
 
-### Titulación
+## Paper
 
-Depende de la culminación de la tesis.
+**Estado general:** derivado de Tesis  
+**Descripción:** Desarrollar una publicación científica basada en la investigación de tesis.
 
----
+## Maestría
 
-### Paper
-
-Derivado de la tesis.
-
-Objetivo:
-
-- Publicación científica (objetivo inicial: Q2).
-
----
-
-### Maestría
-
-Incluye:
-
-- Definición del programa.
-- Evaluación nacional/internacional.
-- Becas.
-- Requisitos.
-- Planificación.
+**Estado general:** exploración / largo plazo  
+**Descripción:** Definir programa, país, becas, requisitos y estrategia de postulación.
 
 ---
 
 # Aprendizaje Continuo
 
-La unidad de organización es el **dominio de conocimiento**, no el curso.
+La unidad natural es el **dominio de conocimiento**, no el curso o recurso.
 
-Los cursos, libros y laboratorios son recursos para avanzar dentro de un dominio.
+Los cursos, libros, laboratorios y tutoriales son recursos dentro del dominio.
 
 Dominios iniciales:
 
@@ -231,32 +301,15 @@ Dominios iniciales:
 - DevOps
 - Software Engineering
 
----
-
-# Modelo Conceptual
-
-Vida
-
-├── Áreas
-
-│
-
-├── Proyectos
-
-│
-
-├── Estado
-
-│
-
-└── Próximas acciones
+Cada dominio puede convertirse en proyecto operativo cuando Activación le asigne capacidad.
 
 ---
 
-# Observaciones
+## Principios del Inventario
 
-Este documento representa únicamente la existencia de áreas y proyectos.
-
-La activación de proyectos será definida por el Sistema de Activación.
-
-No todos los proyectos existentes deben estar activos simultáneamente.
+- El Inventario representa existencia, no prioridad semanal.
+- Un proyecto puede existir sin estar activo.
+- Las responsabilidades recurrentes no necesitan convertirse en proyectos.
+- El Inventario resume; no duplica el árbol operativo de objetivos.
+- El progreso detallado pertenece a Gestión de Tareas.
+- Activación decide qué proyectos reciben capacidad.

@@ -1,3 +1,4 @@
+# Sistema de Planificación
 
 **Versión:** v1.0  
 **Estado:** Especificación conceptual  
@@ -102,7 +103,7 @@ Durante la semana puede añadir un **contexto local de ejecución**, formado por
 
 Planificación necesita conocer qué trabajo es ejecutable, pero no debería convertirse en el repositorio principal de todas las tareas.
 
-Las próximas acciones, tareas pendientes, estimaciones, bloqueos y avances pertenecen al estado operativo de cada proyecto o al futuro sistema de gestión de tareas.
+Las próximas acciones, tareas pendientes, estimaciones, bloqueos y avances pertenecen al Sistema de Gestión de Tareas y Objetivos.
 
 Planificación los consume para tomar decisiones.
 
