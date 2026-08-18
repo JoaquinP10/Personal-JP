@@ -18,8 +18,8 @@ Formato sugerido:
 
 ## Por procesar
 
-- [ ] 2026-08-16 — Preparar el arranque de la primera semana piloto.
-
+- [x] 2026-08-16 — Preparar el arranque de la primera semana piloto. Guardar como referencia
+- [x] 2026-08-17 — Nueva jefatura. Diseño Electrónico 1: Nuevo proyecto
 ## Al procesar
 
 Cada elemento debe terminar en una de estas salidas:
